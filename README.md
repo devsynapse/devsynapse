@@ -6,4 +6,4 @@
 - 🌱 Mostly working with PHP (Laravel, Symfony) and JavaScript (Vue, React)  
 - 🚀 Currently learning Node.js
 - 🏅 I hold 2 AWS certifications  
-- 🐱 Yes, that’s my cat in the profile picture — he also codes!
+- 🐱 Yes, that’s my cat in the profile picture - he also codes!
